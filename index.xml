@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WHOAMI</title>
+    <link>https://1900.io/</link>
+    <description>Recent content on WHOAMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 21:42:27 +0801</lastBuildDate><atom:link href="https://1900.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chinese New Year 2021</title>
+      <link>https://1900.io/posts/p1/</link>
+      <pubDate>Sat, 20 Feb 2021 21:42:27 +0801</pubDate>
+      
+      <guid>https://1900.io/posts/p1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://1900.io/posts/first/</link>
+      <pubDate>Thu, 04 Feb 2021 15:42:27 +0800</pubDate>
+      
+      <guid>https://1900.io/posts/first/</guid>
+      <description>asd dasd</description>
+    </item>
+    
+  </channel>
+</rss>
